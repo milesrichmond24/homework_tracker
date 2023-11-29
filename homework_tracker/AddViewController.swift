@@ -32,7 +32,7 @@ class AddViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDat
         let name = name_textField.text!
         let description = description_textField.text!
         let date = date_input.date
-        let className = AppData.classes[class_picker.selectedRow(inComponent: 0)]
+        let className = AppData.classes[class_picker.selectedRow(inComponent: 0)] 
         
         name_textField.resignFirstResponder()
         description_textField.resignFirstResponder()
