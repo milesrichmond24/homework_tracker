@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B7377C4B2B1639F000B1153A /* ConfettiSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = B7377C4A2B1639F000B1153A /* ConfettiSwiftUI */; };
+		B75517E82B17A2EB001A7880 /* gifFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B75517E72B17A2EB001A7880 /* gifFile.swift */; };
 		CC767E1D2B163FDD00B62A13 /* ConfettiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC767E1C2B163FDD00B62A13 /* ConfettiViewController.swift */; };
 		CCBC082C2B027EA600C7AD32 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCBC082B2B027EA600C7AD32 /* AppDelegate.swift */; };
 		CCBC082E2B027EA600C7AD32 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCBC082D2B027EA600C7AD32 /* SceneDelegate.swift */; };
@@ -44,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B75517E72B17A2EB001A7880 /* gifFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gifFile.swift; sourceTree = "<group>"; };
 		CC767E1C2B163FDD00B62A13 /* ConfettiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfettiViewController.swift; sourceTree = "<group>"; };
 		CCBC08282B027EA600C7AD32 /* homework_tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = homework_tracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCBC082B2B027EA600C7AD32 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 			children = (
 				CCDC4EE62B0D068100100E6F /* AssignmentViewController.swift */,
 				CC767E1C2B163FDD00B62A13 /* ConfettiViewController.swift */,
+				B75517E72B17A2EB001A7880 /* gifFile.swift */,
 				CCBC085E2B0281D100C7AD32 /* Assignment.swift */,
 				CCBC082B2B027EA600C7AD32 /* AppDelegate.swift */,
 				CCBC082D2B027EA600C7AD32 /* SceneDelegate.swift */,
@@ -294,6 +297,7 @@
 				CC767E1D2B163FDD00B62A13 /* ConfettiViewController.swift in Sources */,
 				CCBC082C2B027EA600C7AD32 /* AppDelegate.swift in Sources */,
 				CCBC085F2B0281D100C7AD32 /* Assignment.swift in Sources */,
+				B75517E82B17A2EB001A7880 /* gifFile.swift in Sources */,
 				CCBC082E2B027EA600C7AD32 /* SceneDelegate.swift in Sources */,
 				CCF1A6462B03CB0600E940A6 /* AssignmentCell.swift in Sources */,
 				CCF1A6422B03C5C000E940A6 /* ListViewController.swift in Sources */,

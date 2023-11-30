@@ -34,6 +34,7 @@ class AssignmentViewController: UIViewController {
     }
 
     @IBAction func done_action(_ sender: UIButton) {
-        
+        performSegue(withIdentifier: "confetti", sender: self)
+
     }
 }
